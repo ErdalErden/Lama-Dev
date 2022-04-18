@@ -56,6 +56,10 @@
     cursor: pointer;
 }
 
+.widgetSmButton:hover{
+    background-color: #dadae1;
+}
+
 .widgetSmIcon{
     font-size: 16px !important;
     margin-right: 5px;
